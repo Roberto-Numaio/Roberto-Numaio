@@ -3,7 +3,7 @@
 **`Desenvolvedor Frontend | Computer Science Student`**
 
 Sou Roberto Numaio, tenho 18 anos e sou natural de Maputo, Moçambique.
-Atualmente estou cursando B.Tech in Computer Science na Guru Kashi University, na Índia.
+Atualmente estou cursando B.Tech in Computer Science na Índia.
 
 Minha jornada na programação começou em 2023. Depois de uma pausa durante o ensino médio, voltei a estudar programação com foco total em desenvolvimento web. Hoje estou focado em Front-End Development, enquanto construo minha base para futuramente entrar na área de Cybersecurity.
 
